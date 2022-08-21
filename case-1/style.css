@@ -58,5 +58,12 @@ body {
     border-radius: 20px;
     background-color: #CDC2AE;
     font-size: 14pt;
+}
 
+#code{
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto300";
+    font-size: 12pt;
+    
 }
